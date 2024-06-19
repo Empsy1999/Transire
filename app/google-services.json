@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "821743248312",
+    "project_id": "transient-app-7297b",
+    "storage_bucket": "transient-app-7297b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821743248312:android:1ab91e02493acea11a654d",
+        "android_client_info": {
+          "package_name": "aleeha.com.example.transire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821743248312-vk977g5rca1e7tnmjatrm5qt37gk2oi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTBa-ail7DSMjgBRESC4g2umlWWx0bog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821743248312-vk977g5rca1e7tnmjatrm5qt37gk2oi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821743248312:android:c30744c7b7a037471a654d",
+        "android_client_info": {
+          "package_name": "com.transpire.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821743248312-vk977g5rca1e7tnmjatrm5qt37gk2oi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTBa-ail7DSMjgBRESC4g2umlWWx0bog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821743248312-vk977g5rca1e7tnmjatrm5qt37gk2oi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
